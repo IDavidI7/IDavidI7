@@ -2,6 +2,7 @@
 
 - 🌱 No momento estou estudando Kotlin (Desenvovimento Mobile)
 - 👯 Estou procurando empregos que envolvam desenvolvmiento Mobile ou Web.
+- Trabalho na área Administrativa;
 - Estudando no momento:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
